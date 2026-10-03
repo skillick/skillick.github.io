@@ -7,7 +7,7 @@ excerpt: 'Thesis: Kirillov Orbit method'
 date: 2026-01-06
 venue: ''
 slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://academicpages.github.io/files/thesis.pdf'
+paperurl: 'https://academicpages.github.io/files/Thesis_draft_3.pdf'
 citation: ''
 ---
 
