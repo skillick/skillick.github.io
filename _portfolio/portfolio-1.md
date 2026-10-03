@@ -1,6 +1,6 @@
 ---
 title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='[/images/500x300.png](https://australian.museum/learn/animals/birds/australian-wood-duck/)'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='[/images/mallard.png]'>"
 collection: portfolio
 ---
 
