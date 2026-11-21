@@ -1,6 +1,8 @@
 ---
 permalink: /
 title: "Welcome to my burgeoning website..."
+seo_title: "Samuel Killick | Mathematician, University of Technology Sydney"
+description: "Samuel Killick, early career mathematician at the University of Technology Sydney, working in non-commutative harmonic analysis and distribution theory."
 author_profile: true
 redirect_from: 
   - /about/
