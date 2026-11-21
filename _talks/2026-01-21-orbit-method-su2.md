@@ -6,6 +6,7 @@ talk_type: "Talk"
 venue: "Monash University, AMSI Summer School"
 date: 2026-01-21
 location: "Victoria, Australia"
+slidesurl: '/files/Killick_AMSI_Summer_School_2026_slides.pdf'
 ---
 
 **Abstract.** The orbit method developed by A. Kirillov allows one to speak geometrically about irreducible representations of Lie groups. We are thus given a geometric interpretation of the algebraic-analytic achievements made by E. Cartan and H. Weyl in the classification of the irreducible representations of semi-simple compact Lie groups.
