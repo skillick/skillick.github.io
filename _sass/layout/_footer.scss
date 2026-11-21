@@ -102,3 +102,12 @@
     }
   }
 }
+
+/* Minimal copyright line (replaces the footer bar) */
+.site-copyright {
+  clear: both;
+  padding: 3em 1em 2em;
+  text-align: center;
+  font-size: $type-size-6;
+  color: var(--global-text-color-light);
+}

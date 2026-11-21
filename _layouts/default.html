@@ -18,6 +18,8 @@ layout: compress
 
     {{ content }}
 
+    <footer class="site-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}</footer>
+
     {% comment %} Footer bar removed; keep footer/custom.html, which loads MathJax. {% endcomment %}
     {% include footer/custom.html %}
 
