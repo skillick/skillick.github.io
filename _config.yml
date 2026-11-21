@@ -26,11 +26,11 @@ author:
   avatar           : "profile.png"
   name             : "Samuel Killick"
   pronouns         : # example: "she/her"  
-  bio              : #"Short biography for the left-hand sidebar"
-  location         : #"Earth"
-  employer         : #"Red Brick University"
+  bio              : "Early career mathematician working on non-commutative harmonic analysis and distribution theory."
+  location         : "Sydney, Australia"
+  employer         : "University of Technology Sydney"
   uri              : # URL
-  email            : #"none@example.org" 
+  email            : "samuel.killick@uts.edu.au"
 
   # Academic websites
   academia         : # URL
@@ -38,7 +38,7 @@ author:
   googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : #"https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0008-6506-8379"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
