@@ -1,0 +1,44 @@
+/* ==========================================================================
+   Latin Modern: the default LaTeX typeface (Computer Modern), as web fonts.
+   Subsets of the GUST Font License fonts; see assets/fonts/latin-modern/.
+   ========================================================================== */
+
+@font-face {
+  font-family: "Latin Modern Roman";
+  src: url("../fonts/latin-modern/lmroman10-regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Latin Modern Roman";
+  src: url("../fonts/latin-modern/lmroman10-italic.woff") format("woff");
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Latin Modern Roman";
+  src: url("../fonts/latin-modern/lmroman10-bold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Latin Modern Roman";
+  src: url("../fonts/latin-modern/lmroman10-bolditalic.woff") format("woff");
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Latin Modern Mono";
+  src: url("../fonts/latin-modern/lmmono10-regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
