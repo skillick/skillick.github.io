@@ -103,10 +103,16 @@
   }
 }
 
-/* Minimal copyright line (replaces the footer bar) */
+/* Minimal copyright line (replaces the footer bar).
+   Anchored to the bottom of the page: <html> is position: relative with
+   min-height: 100%, and <body> reserves padding-bottom for it, so it sits at
+   the bottom of the screen on short pages and after the content on long ones. */
 .site-copyright {
-  clear: both;
-  padding: 3em 1em 2em;
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  padding: 1.5em 1em;
   text-align: center;
   font-size: $type-size-6;
   color: var(--global-text-color-light);
