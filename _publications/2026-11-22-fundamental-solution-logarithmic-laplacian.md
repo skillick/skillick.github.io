@@ -12,6 +12,6 @@ citation: 'S. Killick and D. Lee, "The fundamental solution of the logarithmic L
 
 **Authors:** Samuel Killick and David Lee
 
-**Summary.** We show that in dimensions 1 and 2 the fundamental solution of the logarithmic Laplacian is a locally integrable function. Together with earlier work of the first author, this resolves a conjecture of Chen and Véron. The key step is an estimate near the origin for the inverse Fourier transform of the high-frequency part of $$1/\log(|\xi|^2)$$.
+**Abstract.** We show that the fundamental solution of the logarithmic Laplacian in dimensions 1 and 2 is a locally integrable function. Together with earlier work of the first author, this resolves a conjecture of Chen and Véron. The key step is that the inverse Fourier transform of the high-frequency part of $$1/\log(|\xi|^2)$$ behaves like $$|x|^{-d}(\log(1/|x|))^{-2}$$ near the origin.
 
 [View on arXiv](https://arxiv.org/abs/2611.29345)
